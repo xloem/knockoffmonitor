@@ -5,18 +5,11 @@ doNotCompress:
 - resources.arsc
 - png
 isFrameworkApk: false
-packageInfo:
-  forcedPackageId: '127'
-  renameManifestPackage: null
+packageInfo: null
 sdkInfo: null
 sharedLibrary: false
 sparseResources: false
 unknownFiles: {}
-usesFramework:
-  ids:
-  - 1
-  tag: null
+usesFramework: null
 version: 2.6.1
-versionInfo:
-  versionCode: '42'
-  versionName: null
+versionInfo: null

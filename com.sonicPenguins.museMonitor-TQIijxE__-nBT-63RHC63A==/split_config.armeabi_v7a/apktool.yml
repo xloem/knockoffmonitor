@@ -9,11 +9,6 @@ sdkInfo: null
 sharedLibrary: false
 sparseResources: false
 unknownFiles: {}
-usesFramework:
-  ids:
-  - 1
-  tag: null
+usesFramework: null
 version: 2.6.1
-versionInfo:
-  versionCode: '42'
-  versionName: null
+versionInfo: null

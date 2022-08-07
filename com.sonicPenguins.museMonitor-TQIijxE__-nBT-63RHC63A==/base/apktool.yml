@@ -30,12 +30,9 @@ doNotCompress:
 - META-INF/androidx.viewpager_viewpager.version
 - png
 isFrameworkApk: false
-packageInfo:
-  forcedPackageId: '127'
-  renameManifestPackage: null
+packageInfo: null
 sdkInfo:
-  minSdkVersion: '16'
-  targetSdkVersion: '29'
+  minSdkVersion: '23'
 sharedLibrary: false
 sparseResources: false
 unknownFiles:
@@ -68,11 +65,6 @@ unknownFiles:
   google/protobuf/type.proto: '8'
   google/protobuf/wrappers.proto: '8'
   google/protobuf/compiler/plugin.proto: '8'
-usesFramework:
-  ids:
-  - 1
-  tag: null
+usesFramework: null
 version: 2.6.1
-versionInfo:
-  versionCode: '42'
-  versionName: 2.2.1
+versionInfo: null
