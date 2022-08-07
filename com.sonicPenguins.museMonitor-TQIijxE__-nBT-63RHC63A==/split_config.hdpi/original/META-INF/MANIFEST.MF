@@ -1,0 +1,174 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: d4j159tmaQBksvVaw+pp9uBxo0A=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 1X+zxf28Nny7aOkIHQF77KboqLs=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: V3s/YlawQ26DKo0P2hxPmefwmP4=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 8b2lVuoPFVTQ+ervxwIcf8QhWaE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: XBrlG5PBf4YH6VsSxD2+nV63KbU=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: dniUuFJ9gBmHXdYxcoGv0I7abTc=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Frh8AW9iLDxmahoCdZryg8xY5oU=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Q8+/UkxxAdzHEbStCy6gP5wz9Ww=
+
+Name: res/drawable-hdpi-v4/help_absolute.png
+SHA1-Digest: 76FQ1OhMHHmAcDR0VTW6kZaiLbc=
+
+Name: res/drawable-hdpi-v4/help_acc_gyro.png
+SHA1-Digest: VN3MTJ4AutFqAJOM3FLjlv9IZq0=
+
+Name: res/drawable-hdpi-v4/help_discrete.png
+SHA1-Digest: Tv0TduyZpTdxTvzzdFkZFH4wssg=
+
+Name: res/drawable-hdpi-v4/help_raw.png
+SHA1-Digest: /7lW8sUgk9PPP4jM50TbLaX4tEQ=
+
+Name: res/drawable-hdpi-v4/help_spectrogram.png
+SHA1-Digest: CMBh7wN7owtOsG+3GFAE6NcCptk=
+
+Name: res/drawable-hdpi-v4/ic_action_action_note_add.png
+SHA1-Digest: 2yOqffsC6/wC3xOWz83s88h3ahw=
+
+Name: res/drawable-hdpi-v4/ic_action_action_trending_up.png
+SHA1-Digest: vgLgDuwRD0rw6040adkthNYSBQE=
+
+Name: res/drawable-hdpi-v4/ic_action_av_shuffle.png
+SHA1-Digest: z3fmOYnFVYD6I1FR1rwk3gKM8ZQ=
+
+Name: res/drawable-hdpi-v4/ic_action_battery.png
+SHA1-Digest: X0oYY15yekb7QNjAi02kOHir2ms=
+
+Name: res/drawable-hdpi-v4/ic_action_brain.png
+SHA1-Digest: yi3zatITViSODUCdasICQ+oTLlA=
+
+Name: res/drawable-hdpi-v4/ic_action_brain_all.png
+SHA1-Digest: AxBB6rR8A+NieHV7qJpc85DT9ls=
+
+Name: res/drawable-hdpi-v4/ic_action_brain_fb.png
+SHA1-Digest: OlVlnRByfKIzOTTVwNesViiFtFI=
+
+Name: res/drawable-hdpi-v4/ic_action_brain_lr.png
+SHA1-Digest: FhqDcg1tUZKz4n95QKcXBL6mBAY=
+
+Name: res/drawable-hdpi-v4/ic_action_collection.png
+SHA1-Digest: uhRautNajZrwLCMjFp91k+8IR+I=
+
+Name: res/drawable-hdpi-v4/ic_action_communication_portable_wifi_off.p
+ ng
+SHA1-Digest: SVJioFCYjM/BHpQEx1GPU4rxvB0=
+
+Name: res/drawable-hdpi-v4/ic_action_edit.png
+SHA1-Digest: vnbG159ueywohyGo9w3QImfAQ9I=
+
+Name: res/drawable-hdpi-v4/ic_action_editor_format_size.png
+SHA1-Digest: toZkWK9zcMdGThUBG9wT3OfsJjs=
+
+Name: res/drawable-hdpi-v4/ic_action_editor_vertical_align_center.png
+SHA1-Digest: tgahaUKOJKiT6BoP3sPVbj32rRA=
+
+Name: res/drawable-hdpi-v4/ic_action_email.png
+SHA1-Digest: 1UxvlCy+TZUhdezNbcA8rqOmZ1U=
+
+Name: res/drawable-hdpi-v4/ic_action_good.png
+SHA1-Digest: IZBB+0u1KUxttj2OrWNUn6qxuXI=
+
+Name: res/drawable-hdpi-v4/ic_action_graph.png
+SHA1-Digest: Lj0ZXL1/FZBfuvGOG59S0yxGBzk=
+
+Name: res/drawable-hdpi-v4/ic_action_help.png
+SHA1-Digest: Lp8fDr9wbgFdL9zFp9yHb9cpsSQ=
+
+Name: res/drawable-hdpi-v4/ic_action_horseshoe.png
+SHA1-Digest: BqmfMWXrIMLFX1oarAT3SGbqLiA=
+
+Name: res/drawable-hdpi-v4/ic_action_image_straighten.png
+SHA1-Digest: yy1rOOIKR0JbqSK+wG53ac4ro2E=
+
+Name: res/drawable-hdpi-v4/ic_action_labels.png
+SHA1-Digest: OASKyOsxw7qw1Ko5vob3kucoPCs=
+
+Name: res/drawable-hdpi-v4/ic_action_note_add_1.png
+SHA1-Digest: c6MdR2VoH0Xvcv1CzxKKQamNpVQ=
+
+Name: res/drawable-hdpi-v4/ic_action_note_add_2.png
+SHA1-Digest: oAGTWJuWdr8lYTIwHS8YR/0JCbQ=
+
+Name: res/drawable-hdpi-v4/ic_action_note_add_3.png
+SHA1-Digest: KMOMKUMaEftukdJzcbbelT/u5Ic=
+
+Name: res/drawable-hdpi-v4/ic_action_note_add_4.png
+SHA1-Digest: O+Sf2Kiw/zuReOdRVStO6lwVI7c=
+
+Name: res/drawable-hdpi-v4/ic_action_note_add_5.png
+SHA1-Digest: 9y22/wNzqeaFn3qa0dSO/Bc/8qQ=
+
+Name: res/drawable-hdpi-v4/ic_action_record.png
+SHA1-Digest: mnGqb6SLJOJ/9A6mN2e3HrcY5+M=
+
+Name: res/drawable-hdpi-v4/ic_action_save.png
+SHA1-Digest: 18d+JW5sqrsSLSvR8fZd8+CT9bU=
+
+Name: res/drawable-hdpi-v4/ic_action_settings.png
+SHA1-Digest: ZyWhB4S4WjxTtzLgtzl0C0v/kag=
+
+Name: res/drawable-hdpi-v4/ic_action_share.png
+SHA1-Digest: lCh55owvN00Ei1/B6YM3UQFcDMM=
+
+Name: res/drawable-hdpi-v4/ic_action_stop.png
+SHA1-Digest: 45dEZEP+xhkZJ6HaodzaaTzU0sk=
+
+Name: res/drawable-hdpi-v4/ic_action_streaming.png
+SHA1-Digest: SyWJh+LPlE/QAvVasWmgs/YBGKg=
+
+Name: res/drawable-hdpi-v4/ic_action_time.png
+SHA1-Digest: NnTOI/2fvL7PyDANYqoEYXJaeIo=
+
+Name: res/drawable-hdpi-v4/ic_action_web_site.png
+SHA1-Digest: hjEb/l3b1CXkTuLLH2HRB4WihCE=
+
+Name: res/drawable-hdpi-v4/ic_action_zip.png
+SHA1-Digest: axDV243CEmVD1IQw7RpRD3wgtGE=
+
+Name: res/drawable-hdpi-v4/ic_aux.png
+SHA1-Digest: Lt3ZWQm1AU7G1UjfP9nc9dqStuc=
+
+Name: res/drawable-hdpi-v4/ic_notch_frequency.png
+SHA1-Digest: Qm/7Sz4iifqdoKwVeNQS9TAoDTM=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: resources.arsc
+SHA1-Digest: YDfITjXsdF02hyXz9BJRjSpnMDY=
+

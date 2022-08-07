@@ -1,0 +1,11 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: pzGEOgtcU0nclV5t9AbWb9mXqMY=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: FGz3QICHyBkouuwQ5/Ic36i8m1Q=
+
+Name: lib/armeabi-v7a/libmuse_android.so
+SHA1-Digest: 91JCxDyXdejT2VMJcaYZubHBwXE=
+

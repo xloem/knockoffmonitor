@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: xorZOJ8ShQJaM/trlpJ6Dx4zuQo=
+
+Name: resources.arsc
+SHA1-Digest: 0WElo+xDJjyTANtJbWxV04vEQXI=
+

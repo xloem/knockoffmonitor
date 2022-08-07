@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/APKTOOL_DUMMY_36" android:id="@id/menuShare" android:title="@string/menu_share" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/APKTOOL_DUMMY_35" android:id="@id/menuPrefs" android:title="@string/menu_settings" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/APKTOOL_DUMMY_29" android:id="@id/menuGraph" android:title="@string/menu_graph_toggle" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/APKTOOL_DUMMY_38" android:id="@id/menuStream" android:title="@string/menu_stream" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/APKTOOL_DUMMY_33" android:id="@id/menuRecord" android:title="@string/menu_record" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/APKTOOL_DUMMY_2a" android:id="@id/menuHelp" android:title="@string/menu_help" android:showAsAction="ifRoom" />
+</menu>

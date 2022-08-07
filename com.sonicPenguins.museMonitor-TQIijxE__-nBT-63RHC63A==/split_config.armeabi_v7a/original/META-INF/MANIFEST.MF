@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: BundleTool
+Created-By: BundleTool
+
+Name: AndroidManifest.xml
+SHA1-Digest: /ctPBry4frtDftmkAowOzWz2xm4=
+
+Name: lib/armeabi-v7a/libmuse_android.so
+SHA1-Digest: rmgj6U3/iO1fqy6r7MtCQmS3kiA=
+

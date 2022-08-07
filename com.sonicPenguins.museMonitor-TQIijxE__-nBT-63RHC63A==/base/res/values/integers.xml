@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="batteryAutoShowMin">5</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="defaultOSCStreamPort">5000</integer>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="sample_freq_mu_01">220</integer>
+    <integer name="sample_freq_mu_02">256</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

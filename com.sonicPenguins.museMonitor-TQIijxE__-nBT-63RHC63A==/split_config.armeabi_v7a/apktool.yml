@@ -1,0 +1,19 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: split_config.armeabi_v7a.apk
+compressionType: false
+doNotCompress:
+- lib/armeabi-v7a/libmuse_android.so
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '42'
+  versionName: null

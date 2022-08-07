@@ -1,0 +1,21 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: split_config.es.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '42'
+  versionName: null

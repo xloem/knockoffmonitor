@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/mainLayout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/buttonLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/tagButton1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMY_2e" android:contentDescription="@string/text_marker_1" />
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/tagButton2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMY_2f" android:contentDescription="@string/text_marker_2" />
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/tagButton3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMY_30" android:contentDescription="@string/text_marker_3" />
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/tagButton4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMY_31" android:contentDescription="@string/text_marker_4" />
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/tagButton5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMY_32" android:contentDescription="@string/text_marker_5" />
+        <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ImageView android:id="@id/graphView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:adjustViewBounds="true" android:layout_above="@id/buttonLayout" android:contentDescription="@string/undefined" />
+    <ProgressBar android:id="@id/progressSpinner" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/buttonLayout" style="?android:progressBarStyleLargeInverse" />
+    <TextView android:textSize="24.0sp" android:gravity="center" android:id="@id/progressText" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/text_connection_waiting" android:layout_alignLeft="@id/progressSpinner" android:layout_alignTop="@id/progressSpinner" android:layout_alignRight="@id/progressSpinner" android:layout_alignBottom="@id/progressSpinner" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:layout_alignStart="@id/progressSpinner" android:layout_alignEnd="@id/progressSpinner" />
+</RelativeLayout>
