@@ -1,5 +1,5 @@
-APP_NAME=base
-APP_DIR=com.sonicPenguins.museMonitor-TQIijxE__-nBT-63RHC63A==/$(APP_NAME)
+APP_NAME=knockoffmonitor
+APP_DIR=com.sonicPenguins.museMonitor
 
 install: $(APP_DIR)/dist/$(APP_NAME)_signed.apk
 	adb install "$<"
@@ -11,4 +11,4 @@ keystore:
 	keytool -genkey -noprompt -dname "CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown" -keystore keystore -validity 10000 -alias dev -keyalg rsa -storepass 123456 -keypass 123456
 
 $(APP_DIR)/dist/$(APP_NAME).apk: $(APP_DIR)/AndroidManifest.xml $(APP_DIR)/*/*/*.xml
-	apktool build "$(APP_DIR)"
+	apktool build --output "$@" "$(APP_DIR)"
