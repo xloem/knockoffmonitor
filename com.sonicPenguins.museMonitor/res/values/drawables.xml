@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="common_full_open_on_phone" />
+    <item type="drawable" name="common_google_signin_btn_icon_dark_normal_background" />
+    <item type="drawable" name="common_google_signin_btn_icon_light_normal_background" />
+    <item type="drawable" name="common_google_signin_btn_text_dark_normal_background" />
+    <item type="drawable" name="common_google_signin_btn_text_light_normal_background" />
+    <item type="drawable" name="googleg_disabled_color_18" />
+    <item type="drawable" name="googleg_standard_color_18" />
+    <item type="drawable" name="help_absolute" />
+    <item type="drawable" name="help_acc_gyro" />
+    <item type="drawable" name="help_discrete" />
+    <item type="drawable" name="help_raw" />
+    <item type="drawable" name="help_spectrogram" />
+    <item type="drawable" name="ic_action_action_note_add" />
+    <item type="drawable" name="ic_action_action_trending_up" />
+    <item type="drawable" name="ic_action_av_shuffle" />
+    <item type="drawable" name="ic_action_battery" />
+    <item type="drawable" name="ic_action_brain" />
+    <item type="drawable" name="ic_action_brain_all" />
+    <item type="drawable" name="ic_action_brain_fb" />
+    <item type="drawable" name="ic_action_brain_lr" />
+    <item type="drawable" name="ic_action_collection" />
+    <item type="drawable" name="ic_action_communication_portable_wifi_off" />
+    <item type="drawable" name="ic_action_edit" />
+    <item type="drawable" name="ic_action_editor_format_size" />
+    <item type="drawable" name="ic_action_editor_vertical_align_center" />
+    <item type="drawable" name="ic_action_email" />
+    <item type="drawable" name="ic_action_good" />
+    <item type="drawable" name="ic_action_graph" />
+    <item type="drawable" name="ic_action_help" />
+    <item type="drawable" name="ic_action_horseshoe" />
+    <item type="drawable" name="ic_action_image_straighten" />
+    <item type="drawable" name="ic_action_labels" />
+    <item type="drawable" name="ic_action_note_add_1" />
+    <item type="drawable" name="ic_action_note_add_2" />
+    <item type="drawable" name="ic_action_note_add_3" />
+    <item type="drawable" name="ic_action_note_add_4" />
+    <item type="drawable" name="ic_action_note_add_5" />
+    <item type="drawable" name="ic_action_record" />
+    <item type="drawable" name="ic_action_save" />
+    <item type="drawable" name="ic_action_settings" />
+    <item type="drawable" name="ic_action_share" />
+    <item type="drawable" name="ic_action_stop" />
+    <item type="drawable" name="ic_action_streaming" />
+    <item type="drawable" name="ic_action_time" />
+    <item type="drawable" name="ic_action_web_site" />
+    <item type="drawable" name="ic_action_zip" />
+    <item type="drawable" name="ic_aux" />
+    <item type="drawable" name="ic_notch_frequency" />
+    <item type="drawable" name="notification_bg_low_normal" />
+    <item type="drawable" name="notification_bg_low_pressed" />
+    <item type="drawable" name="notification_bg_normal" />
+    <item type="drawable" name="notification_bg_normal_pressed" />
+</resources>

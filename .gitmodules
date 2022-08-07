@@ -1,0 +1,3 @@
+[submodule "patch-apk"]
+	path = patch-apk
+	url = https://github.com/NickstaDB/patch-apk

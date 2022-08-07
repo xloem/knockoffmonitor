@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_action_share" android:id="@id/menuShare" android:title="@string/menu_share" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_settings" android:id="@id/menuPrefs" android:title="@string/menu_settings" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_graph" android:id="@id/menuGraph" android:title="@string/menu_graph_toggle" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_streaming" android:id="@id/menuStream" android:title="@string/menu_stream" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_record" android:id="@id/menuRecord" android:title="@string/menu_record" android:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_help" android:id="@id/menuHelp" android:title="@string/menu_help" android:showAsAction="ifRoom" />
+</menu>
