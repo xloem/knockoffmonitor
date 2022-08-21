@@ -1,3 +1,6 @@
+Simple next step:
+- see if there is a java->smali compiler, then the existing apktool build can be temporarily used for java code
+
 Proposal for next step:
 - Let's see if one of jadx's decompilation modes creates a codebase that will simply compile. If so, then a better mode can be used for individual classes. If not, then the classes can be manually compiled with a workable classpath.
 
